@@ -1,0 +1,27 @@
+* 95be114 (HEAD -> main, origin/main) docs: Add changelog
+* 5b436f1 docs: Add GIT_JOURNEY documentation
+* 3800f54 docs: Add step 4.6 Git Tag details
+* e0c83cf (tag: v1.1.0, tag: v1.0.0) docs: Add step 4.4 Git Revert & Reset details
+* 306b13a Bad commit
+* b819b08 docs: Update changelog for step 4.4
+* aaabd2f docs: Update README
+| * b399452 (origin/feature/another-feature, feature/another-feature) feat: Add test feature
+|/  
+* 4e28931 docs: Update changelog with steps 4.2 and 4.3
+* d318df4 feat: Add new feature
+* 90d9aa0 docs: Add FAQ section
+| * 034d4d4 (feature/new-feature) docs: Update changelog for step 4.2
+| * aabb45c (origin/feature/new-feature) feat: Add new feature
+|/  
+* 394aa55 docs: added CHANGELOG with fetch and pull record
+*   f1923e6 Resolved merge conflicts and completed merge
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   e3ae8cb merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
