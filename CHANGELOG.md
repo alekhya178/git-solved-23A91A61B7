@@ -9,3 +9,6 @@
 
 ### Step 4.3: Git Cherry-Pick
 - Used `git cherry-pick` 1 time to copy a commit from feature/new-feature into main.
+
+### Step 4.4: Git Rebase
+- Used `git rebase` 1 time to reapply commits from feature/another-feature onto the updated main branch.
