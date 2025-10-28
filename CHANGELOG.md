@@ -12,3 +12,8 @@
 
 ### Step 4.4: Git Rebase
 - Used `git rebase` 1 time to reapply commits from feature/another-feature onto the updated main branch.
+
+### Step 4.5: Git Reset & Revert
+- Used `git revert` 1 time to undo a bad commit.
+- Practiced `git reset` 3 times: soft, mixed, and hard.
+- Used `git reflog` to recover a lost commit using `git cherry-pick`.
