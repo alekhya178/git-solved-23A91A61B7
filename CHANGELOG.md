@@ -17,3 +17,8 @@
 - Used `git revert` 1 time to undo a bad commit.
 - Practiced `git reset` 3 times: soft, mixed, and hard.
 - Used `git reflog` to recover a lost commit using `git cherry-pick`.
+
+### Step 4.6: Git Tag
+- Created 2 annotated tags: `v1.0.0` and `v1.1.0`.
+- Tag `v1.0.0`: "Release 1.0.0 — Resolved all conflicts."
+- Tag `v1.1.0`: "Release 1.1.0 — Added all features."
