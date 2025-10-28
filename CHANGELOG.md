@@ -1,0 +1,1 @@
+## CHANGELOG\n\n### Step 4.1: Git Fetch & Pull\n- Used `git fetch` 1 time to check for updates from the instructor repository.\n- Used `git pull` 1 time to synchronize updates with the main branch.\n- Verified differences using `git diff main instructor/main`.
