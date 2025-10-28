@@ -1,24 +1,17 @@
-# CHANGELOG
-
-### Step 4.1: Git Fetch & Pull
-- Used `git fetch` 1 time  
-- Used `git pull` 1 time  
-
-### Step 4.2: Git Stash
-- Used `git stash` 1 time to temporarily save work in progress.  
-
-### Step 4.3: Git Cherry-Pick
-- Used `git cherry-pick` 1 time to copy a commit from feature/new-feature into main.
-
-### Step 4.4: Git Rebase
-- Used `git rebase` 1 time to reapply commits from feature/another-feature onto the updated main branch.
-
-### Step 4.5: Git Reset & Revert
-- Used `git revert` 1 time to undo a bad commit.
-- Practiced `git reset` 3 times: soft, mixed, and hard.
-- Used `git reflog` to recover a lost commit using `git cherry-pick`.
-
-### Step 4.6: Git Tag
-- Created 2 annotated tags: `v1.0.0` and `v1.1.0`.
-- Tag `v1.0.0`: "Release 1.0.0 — Resolved all conflicts."
-- Tag `v1.1.0`: "Release 1.1.0 — Added all features."
+- 5b436f1: docs: Add GIT_JOURNEY documentation (alekhya178, 59 seconds ago)
+- 3800f54: docs: Add step 4.6 Git Tag details (alekhya178, 19 minutes ago)
+- e0c83cf: docs: Add step 4.4 Git Revert & Reset details (alekhya178, 25 minutes ago)
+- 306b13a: Bad commit (alekhya178, 29 minutes ago)
+- b819b08: docs: Update changelog for step 4.4 (alekhya178, 30 minutes ago)
+- aaabd2f: docs: Update README (alekhya178, 32 minutes ago)
+- 4e28931: docs: Update changelog with steps 4.2 and 4.3 (alekhya178, 34 minutes ago)
+- d318df4: feat: Add new feature (alekhya178, 40 minutes ago)
+- 90d9aa0: docs: Add FAQ section (alekhya178, 41 minutes ago)
+- 394aa55: docs: added CHANGELOG with fetch and pull record (alekhya178, 44 minutes ago)
+- f1923e6: Resolved merge conflicts and completed merge (alekhya178, 49 minutes ago)
+- e3ae8cb: merge: Resolve all conflicts between main and dev branches (alekhya178, 68 minutes ago)
+- d3dd9b2: updating conflict-simulator (Hanu Gupta, 6 days ago)
+- 02011a5: updating dev (Hanu Gupta, 6 days ago)
+- 0312c6f: updating main (Hanu Gupta, 6 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 6 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 6 days ago)
